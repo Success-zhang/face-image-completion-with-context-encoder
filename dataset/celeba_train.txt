@@ -1,0 +1,3 @@
+/dataset/train/celeba_train10003.jpg
+/dataset/train/celeba_train10005.jpg
+/dataset/train/celeba_train10016.jpg
